@@ -5,6 +5,6 @@ public class Main {
         // Press Opt+Enter with your caret at the highlighted text to see how
         // IntelliJ IDEA suggests fixing it.
         System.out.printf("this is a new cod");
-
+        System.out.println("hello");
         }
     }
